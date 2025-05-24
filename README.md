@@ -20,12 +20,12 @@ I'll launch an EC2 instance, and then control who has access to it by creating s
 
 ### Tools and concepts
 
-Services I used were AWS EC2 and AWS IAM, and IAM Policy Simulator. Key concepts I learnt include:
-💻 Launching an EC2 instances.
-🏷️ Using tags for easy identification.
-💂 Setting up IAM policies accessing EC2 instances based on their environment (development or production).
-👩‍👩‍👧‍👧 Creating an IAM user and assigning them to the appropriate user group with the necessary permissions for their role.
-🔓 Testting IAM access for the User I created.
+Services I used were AWS EC2 and AWS IAM, and IAM Policy Simulator. Key concepts I learnt include:<br/>
+💻 Launching an EC2 instances.<br/>
+🏷️ Using tags for easy identification.<br/>
+💂 Setting up IAM policies accessing EC2 instances based on their environment (development or production).<br/>
+👩‍👩‍👧‍👧 Creating an IAM user and assigning them to the appropriate user group with the necessary permissions for their role.<br/>
+🔓 Testing IAM access for the User I created.<br/>
 
 
 
